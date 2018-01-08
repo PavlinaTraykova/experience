@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\BiletiZaMacha\BiletiZaMacha\obj\Debug\BiletiZaMacha.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\BiletiZaMacha\BiletiZaMacha\obj\Debug\BiletiZaMacha.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BiletiZaMacha\BiletiZaMacha\bin\Debug\BiletiZaMacha.exe.config
+C:\Users\User\source\repos\BiletiZaMacha\BiletiZaMacha\bin\Debug\BiletiZaMacha.exe
+C:\Users\User\source\repos\BiletiZaMacha\BiletiZaMacha\bin\Debug\BiletiZaMacha.pdb
+C:\Users\User\source\repos\BiletiZaMacha\BiletiZaMacha\obj\Debug\BiletiZaMacha.exe
+C:\Users\User\source\repos\BiletiZaMacha\BiletiZaMacha\obj\Debug\BiletiZaMacha.pdb
